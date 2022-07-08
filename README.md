@@ -1,2 +1,2 @@
 # wp_gym
-Wordpress custom website for a Gym business
+Wordpress responsive Theme for a Gym
